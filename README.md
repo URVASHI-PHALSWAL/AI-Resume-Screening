@@ -44,5 +44,10 @@ results = screen_resumes(sample_resumes, sample_job_description)
 print(results)
 ```
 """
-
+## Author
+- Name: Urvashi Phalswal
+- Email: phalswalurvashi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/urvashi-phalswal-722743238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
+- GitHub: https://github.com/URVASHI-PHALSWAL
+"""
 print(README_md)
